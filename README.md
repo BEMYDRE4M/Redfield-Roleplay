@@ -1,7 +1,7 @@
 # Redfield Roleplay
 
 A simple (and bad) roleplay gamemode developed in 2016.   
-Development has been discontinued; this upload serves mainly for archiving.
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features:
 
