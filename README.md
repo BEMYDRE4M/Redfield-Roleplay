@@ -6,7 +6,7 @@ Development and support have been discontinued; this upload serves mainly for ar
 https://multitheftauto.com
 
 ⚠️ Note: It is extremely outdated and does NOT use MTA's internal database functions. It requires the MySQL modules.
-Many systems of the game mode are probably no longer working correctly and need to be updated.   
+Many systems of the gamemode are probably no longer working correctly and need to be updated.   
 Development and support have been discontinued this upload is just here for archiving purposes.
 
 Features:
