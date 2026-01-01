@@ -1,12 +1,12 @@
 # Redfield Roleplay
 
-A simple roleplay gamemode developed in 2016. This was my first attempt at developing a self-made game mode. It isn’t good and only served as a learning process.   
-Development and support have been discontinued; this upload serves mainly for archiving.
+A simple roleplay gamemode developed in 2016. This was my first attempt at developing a self-made game mode. It isn’t good and only served as a learning process.
 
 https://multitheftauto.com
 
 ⚠️ Note: It is extremely outdated and does NOT use MTA's internal database functions. It requires the MySQL modules.
-Many systems of the gamemode are probably no longer working correctly and need to be updated.
+Many systems of the gamemode are probably no longer working correctly and need to be updated.   
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features:
 
