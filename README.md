@@ -7,7 +7,6 @@ https://multitheftauto.com
 
 ⚠️ Note: It is extremely outdated and does NOT use MTA's internal database functions. It requires the MySQL modules.
 Many systems of the gamemode are probably no longer working correctly and need to be updated.
-Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features:
 
