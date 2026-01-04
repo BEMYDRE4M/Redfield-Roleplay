@@ -4,8 +4,8 @@ A simple roleplay gamemode developed in 2016. This was my first attempt at devel
 
 https://multitheftauto.com
 
-⚠️ Note: It is extremely outdated and does NOT use MTA's internal database functions. It requires the MySQL modules.
-Many systems of the gamemode are probably no longer working correctly and need to be updated.   
+⚠️ Note: Some systems of the gamemode could probably no longer working correctly and need to be updated.
+Development and support have been discontinued; this upload serves mainly for archiving.   
 Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features:
